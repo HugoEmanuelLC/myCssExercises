@@ -1,0 +1,24 @@
+body{
+    background-color: hsl(39, 6%, 83%);
+}
+.brand span{
+    color: #d69e36;
+}
+.menu > li > a{
+    color: rgb(134, 12, 110);
+}
+.menu li a span{
+    color: red;
+}
+[data-role]{
+    background-color: hsl(39, 21%, 73%);
+}
+[data-role] ul li a span{
+    color: rgb(14, 86, 96);
+}
+.blabla + li{
+    background-color: purple;
+}
+.content, .content a{
+    color: darkcyan;
+}
